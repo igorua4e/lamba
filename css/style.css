@@ -117,7 +117,7 @@ body {
 /*==============================================*/
 /*for header*/
 .header {
-  background: url("../img/mainback.png") 0 0 no-repeat fixed;
+  background: url("../img/mainback.png") 0 0/cover no-repeat fixed;
   min-height: 100vh;
 }
 .header__body {
